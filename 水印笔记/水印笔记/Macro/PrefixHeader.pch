@@ -1,0 +1,22 @@
+//
+//  PrefixHeader.pch
+//  水印笔记
+//
+//  Created by linlin dang on 2019/6/19.
+//  Copyright © 2019 TT. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import <CoreMotion/CoreMotion.h>
+#import "TT_GeneralProfile.h"
+
+#import "SYBJ_ThirdPart.h"
+#import "SYBJ_ColorS.h"
+#import "SYBJ_urlS.h"
+#import "SYBJ_AuxiliaryS.h"
+
+#endif /* PrefixHeader_pch */
